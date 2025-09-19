@@ -14,7 +14,7 @@ You will need:
 - Python
 - Git
 ```
-git clone https://github.com/dootss/catbox-scraper.git
+git clone https://github.com/Ori7274/catbox-scraper.git
 cd catbox-scraper
 pip install -r requirements.txt
 python main.py
