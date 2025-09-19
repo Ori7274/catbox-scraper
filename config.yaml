@@ -1,5 +1,5 @@
 threads: 550
-update_rate: 0.01 # how fast the status board will update. in seconds.
+update_rate: 0.10 # how fast the status board will update. in seconds.
 file_extensions:
   - .png
   - .gif
@@ -86,3 +86,4 @@ file_extensions:
 #   - .flac
 #   - .ogg
 #   - .m4a
+
